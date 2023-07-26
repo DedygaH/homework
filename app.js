@@ -10,7 +10,8 @@
 // const arr2 = compact(arr);
 // console.log(arr2); // [5,3,4,6,7]
 
-const arr = [5, 3, 4, 5,6,7,3];
+const arr = [5, 3, 4, 5,6,7,3];             //масив
+const arr2 = compact(arr);                  //змінній arr2 присвоїли результат виконання функції
 function compact(arr) {                     // оголосили функцію
   const arr2 = [];                          //створили порожній масив
   
