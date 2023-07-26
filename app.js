@@ -1,3 +1,8 @@
+
+
+
+
+//task 1
 function compact(array) {// оголосили функцію
   const newArr = [];//створили порожній масив
   
